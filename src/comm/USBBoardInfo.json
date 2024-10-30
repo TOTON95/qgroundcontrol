@@ -43,6 +43,11 @@
         { "vendorID": 13735, "productID": 1,        "boardClass": "Pixhawk",    "name": "ThePeach FCC-K1" },
         { "vendorID": 13735, "productID": 2,        "boardClass": "Pixhawk",    "name": "ThePeach FCC-R1" },
 
+	{ "vendorID": 9900, "productID": 4119,      "boardClass": "Pixhawk",    "name": "mRo Pixracer Pro" },
+        { "vendorID": 9900, "productID": 4130,      "boardClass": "Pixhawk",    "name": "mRo Control Zero Classic" },
+        { "vendorID": 9900, "productID": 4131,      "boardClass": "Pixhawk",    "name": "mRo Control Zero H7" },
+        { "vendorID": 9900, "productID": 4132,      "boardClass": "Pixhawk",    "name": "mRo Control Zero H7 OEM" },
+
         { "vendorID": 9900, "productID": 21,        "boardClass": "PX4 Flow",   "name": "PX4 Flow" },
 
         { "vendorID": 1027, "productID": 24597,     "boardClass": "SiK Radio",  "name": "SiK Radio",            "comment": "3DR Radio" },
